@@ -1,18 +1,18 @@
 const commentslist =[
 {
-	name:"应风朔间",
+	name:"斯蒂芬·库里",
 	comment1:
-	"师父收留了我们。小凛不会再饿肚子了。",
-	time :"Thu Jan 12 2022"
+	"下个赛季没有球队想遇到我们！",
+	time :"Sat May 22 2021"
 },{
-	name:"一陌",
+	name:"科比·布莱恩特",
 	comment1:
-	"发现异族的一对双生子，好像是逃亡失散了，带在身边好了。",
-	time :"Fri Jan 13 2022"
+	"你见过凌晨四点的洛杉矶吗？",
+	time :"Fri Aug 23 2013"
 },{
-	name:"齐木楠雄",
+	name:"迈克尔·乔丹",
 	comment1:
-	"呀嘞呀嘞。",
+	"我可以接受失败，但无法接受放弃",
 	time :"Fri Jan 19 2022"
 
 }
